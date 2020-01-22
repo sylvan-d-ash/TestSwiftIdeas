@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		5EFA980423D89FA900CA0063 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA980323D89FA900CA0063 /* AppDelegate.swift */; };
 		5EFA980623D89FA900CA0063 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA980523D89FA900CA0063 /* SceneDelegate.swift */; };
-		5EFA980823D89FA900CA0063 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EFA980723D89FA900CA0063 /* ViewController.swift */; };
 		5EFA980B23D89FA900CA0063 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EFA980923D89FA900CA0063 /* Main.storyboard */; };
 		5EFA980D23D89FA900CA0063 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5EFA980C23D89FA900CA0063 /* Assets.xcassets */; };
 		5EFA981023D89FA900CA0063 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EFA980E23D89FA900CA0063 /* LaunchScreen.storyboard */; };
@@ -31,7 +30,6 @@
 		5EFA980023D89FA900CA0063 /* TestIdeas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestIdeas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EFA980323D89FA900CA0063 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5EFA980523D89FA900CA0063 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		5EFA980723D89FA900CA0063 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5EFA980A23D89FA900CA0063 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5EFA980C23D89FA900CA0063 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5EFA980F23D89FA900CA0063 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -83,7 +81,6 @@
 			children = (
 				5EFA980323D89FA900CA0063 /* AppDelegate.swift */,
 				5EFA980523D89FA900CA0063 /* SceneDelegate.swift */,
-				5EFA980723D89FA900CA0063 /* ViewController.swift */,
 				5EFA982523D8A1B900CA0063 /* ResizeViewViewController.swift */,
 				5EFA980923D89FA900CA0063 /* Main.storyboard */,
 				5EFA980C23D89FA900CA0063 /* Assets.xcassets */,
@@ -203,7 +200,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5EFA980823D89FA900CA0063 /* ViewController.swift in Sources */,
 				5EFA982623D8A1B900CA0063 /* ResizeViewViewController.swift in Sources */,
 				5EFA980423D89FA900CA0063 /* AppDelegate.swift in Sources */,
 				5EFA980623D89FA900CA0063 /* SceneDelegate.swift in Sources */,
